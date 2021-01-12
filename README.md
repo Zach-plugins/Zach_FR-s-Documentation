@@ -16,8 +16,6 @@ Check out the categories on the left sidebar to find the plugin you're looking f
 
 You can find link to my discord here**:** [**https://discord.gg/mtG2feY**](https://discord.gg/mtG2feY)\*\*\*\*
 
-## Have you had a chance to answer the previous question?
-
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
 
