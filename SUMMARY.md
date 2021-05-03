@@ -17,5 +17,5 @@
 * [Sellwand](plugin/sellwand/README.md)
   * [Command and permission](plugin/sellwand/command-and-permission.md)
 * [HistoryGUI](plugin/HistoryGUI/README.md)
-  * [Command and permission](plugin/HistoryGUI/command-and-permission.md)
+  * [Command and permission](plugin/HistoryGUI/commands-and-permissions.md)
 
