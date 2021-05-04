@@ -11,7 +11,7 @@ description: Full list of all available commands and permissions for the plugin.
 | No command | historygui.edit.ban | Edit ban punishment |
 | No command | historygui.edit.mute | Edit mute puinishment |
 | No command | historygui.edit.kick | Edit kick punishment |
-| No command | historygui.edit.warning | Edit warning punishment​ |
+| No command | historygui.edit.warning | Edit warning punishment |
 
 
 
