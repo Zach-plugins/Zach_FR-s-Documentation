@@ -17,5 +17,17 @@
 * [Sellwand](plugin/sellwand/README.md)
   * [Command and permission](plugin/sellwand/command-and-permission.md)
 * [HistoryGUI](plugin/HistoryGUI/README.md)
-  * [Command and permission](plugin/HistoryGUI/commands-and-permissions.md)
+  * [Command and permission](plugin/HistoryGUI/command-and-permission.md)
+
+## Infinite Series
+* [Infinite Dispensers](plugin/InfiniteDispensers/README.md)
+  * [Command and Permission](plugin/InfiniteDispensers/command-and-permission.md)
+* [Infinite Sellblocks](plugin/InfiniteSellblocks/README.md)
+  * [Command and Permission](plugin/InfiniteSellblocks/command-and-permission.md)
+* [Infinite Vouchers](plugin/InfiniteVouchers/README.md)
+  * [Command and Permission](plugin/InfiniteVouchers/command-and-permission.md)
+* [Infinite Scoreboard](plugin/InfiniteScoreboard/README.md)
+  * [Command and Permission](plugin/InfiniteScoreboard/command-and-permission.md)
+* [Infinite Announcements](plugin/InfiniteAnnouncements/README.md)
+  * [Command and Permission](plugin/InfiniteAnnouncements/command-and-permission.md)
 
