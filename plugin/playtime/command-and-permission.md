@@ -28,7 +28,7 @@ description: Full list of all available commands and permissions for the plugin.
     </tr>
     <tr>
       <td style="text-align:center">/playtimeleaderboard</td>
-      <td style="text-align:center">playtime.leadeboard</td>
+      <td style="text-align:center">playtime.leaderboard</td>
       <td style="text-align:center">Show playtime leaderboard in chat.</td>
     </tr>
   </tbody>
