@@ -1,5 +1,5 @@
 ---
-description: Full list of all available commands and permissions for the plugin.
+description: List of all available commands and permissions for the plugin.
 ---
 
 # Command and permission
@@ -8,8 +8,8 @@ description: Full list of all available commands and permissions for the plugin.
 | Command | Permission | Description |
 | :---: | :---: | :---: |
 | /ia | none | Shows all commands |
-| /ia toggle | infinite.announcements.toggle | toggle annoucements. |
+| /ia toggle | infinite.announcements.toggle | Toggle annoucements. |
 | /ia reload | infinite.announcements.admin | Reload the plugin (configuration and language). |
-| /ia editor | infinite.announcements.admin | Edit the settings ingame with a Gui. |
+| /ia editor | infinite.announcements.admin | Edit settings ingame with a Gui. |
 | /ia send {player} {annoucement}| infinite.announcements.send | You can send a player or all players a specify annoucement. |
 

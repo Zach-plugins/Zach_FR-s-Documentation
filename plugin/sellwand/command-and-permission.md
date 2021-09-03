@@ -1,5 +1,5 @@
 ---
-description: Full list of all available commands and permissions for the plugin.
+description: List of all available commands and permissions for the plugin.
 ---
 
 # Command and permission
