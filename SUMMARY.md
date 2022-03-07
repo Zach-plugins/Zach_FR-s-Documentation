@@ -16,7 +16,7 @@
   * [Command and permission](plugin/blockwand/command-and-permission.md)
 * [Sellwand](plugin/sellwand/README.md)
   * [Command and permission](plugin/sellwand/command-and-permission.md)
-  * [F.A.Q.](plugin/sellwand/faq.md)
+  * [Frequently asked questions](plugin/sellwand/faq.md)
 * [HistoryGUI](plugin/HistoryGUI/README.md)
   * [Command and permission](plugin/HistoryGUI/command-and-permission.md)
 
