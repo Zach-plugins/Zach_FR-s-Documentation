@@ -2,6 +2,10 @@
 
 * [Zach\_FR's Documentation](README.md)
 
+## General
+
+* [Frequently asked questions](general/faq.md)
+
 ## Plugin
 
 * [Playtime](plugin/playtime/README.md)
