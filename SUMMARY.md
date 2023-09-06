@@ -39,3 +39,4 @@
 * [Infinite Announcements](plugin/InfiniteAnnouncements/README.md)
   * [Command and Permission](plugin/InfiniteAnnouncements/command-and-permission.md)
   * [Placeholder](infinite-series/infiniteannouncements/placeholder.md)
+  * [Frequently asked questions](infinite-series/infiniteannouncements/faq.md)
