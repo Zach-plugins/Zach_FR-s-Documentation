@@ -39,4 +39,5 @@
 * [Infinite Announcements](infinite-series/infiniteannouncements/README.md)
   * [Command and Permission](infinite-series/infiniteannouncements/command-and-permission.md)
   * [Placeholder](infinite-series/infiniteannouncements/placeholder.md)
+  * [Type](infinite-series/infiniteannouncements/type.md)
   * [Frequently asked questions](infinite-series/infiniteannouncements/faq.md)
